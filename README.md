@@ -1,2 +1,2 @@
-# Bloom-Blaster
-A gallery shooter based on growing plants
+# aumai.github.io
+Page for hosting UCSC projects
